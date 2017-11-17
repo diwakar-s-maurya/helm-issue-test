@@ -1,0 +1,30 @@
+apiVersion: v1
+entries:
+  app1:
+  - apiVersion: v1
+    created: 2017-11-18T01:26:05.029559165+05:30
+    description: A Helm chart for Kubernetes
+    digest: 7a50fa2e2a02c1efdcb5fed3c52d5838a0b8659c869d67af8f8c7edeb335460b
+    name: app1
+    urls:
+    - https://raw.githubusercontent.com/diwakar-s-maurya/helm-issue-test/master/app1-0.1.0.tgz
+    version: 0.1.0
+  app2:
+  - apiVersion: v1
+    created: 2017-11-18T01:26:05.030040736+05:30
+    description: A Helm chart for Kubernetes
+    digest: 173556e6779f7a59d46eab6fdabe5b030cdfca81ca491c9a607ad0203f00bf9a
+    name: app2
+    urls:
+    - https://raw.githubusercontent.com/diwakar-s-maurya/helm-issue-test/master/app2-0.1.0.tgz
+    version: 0.1.0
+  app3:
+  - apiVersion: v1
+    created: 2017-11-18T01:26:05.03027656+05:30
+    description: A Helm chart for Kubernetes
+    digest: 7696470f52651ca3d7fe208a87430699675e8b48d622ec75616e42f07830a238
+    name: app3
+    urls:
+    - https://raw.githubusercontent.com/diwakar-s-maurya/helm-issue-test/master/app3-0.1.0.tgz
+    version: 0.1.0
+generated: 2017-11-18T01:26:05.027439116+05:30

@@ -1,0 +1,4 @@
+dependencies:
+- name: app1
+  version: "0.1.0"
+  repository: "https://raw.githubusercontent.com/diwakar-s-maurya/helm-issue-test/master"

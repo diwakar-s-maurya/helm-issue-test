@@ -1,0 +1,6 @@
+dependencies:
+- name: app1
+  repository: https://raw.githubusercontent.com/diwakar-s-maurya/helm-issue-test/master
+  version: 0.1.0
+digest: sha256:e8c3220ed210bf6a0f882b56b4fdb8caa864ba176bc0281ed843950e67269e56
+generated: 2017-11-18T00:49:11.732872552+05:30

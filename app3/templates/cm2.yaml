@@ -1,0 +1,6 @@
+kind: ConfigMap
+apiVersion: v1
+metadata:
+  name: cm3
+data:
+  example.property.1: hello
